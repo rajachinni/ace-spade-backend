@@ -1,0 +1,33 @@
+src/main/java/com/acespade/service/RoomService.java
+  47e5ad1ede15ce01 645,653,2148,2155-2159,2164-2177,2179-2187
+src/main/java/com/acespade/model/ChatReply.java
+  47e5ad1ede15ce01 1-26
+src/main/java/com/acespade/dto/ChatReplyDto.java
+  47e5ad1ede15ce01 1-16
+src/main/java/com/acespade/dto/ChatRequest.java
+  47e5ad1ede15ce01 14-17
+src/main/java/com/acespade/dto/ChatMessageDto.java
+  47e5ad1ede15ce01 20
+src/main/java/com/acespade/model/ChatMessage.java
+  47e5ad1ede15ce01 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "78adf94db06ec3ff0fb69cd863069413db164433",
+  "prompts": {
+    "47e5ad1ede15ce01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c20e13d-58e4-4c05-a04b-8f0730d404ec",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Raja Chinni <rajachinni555@gmail.com>",
+      "messages": [],
+      "total_additions": 83,
+      "total_deletions": 0,
+      "accepted_lines": 82,
+      "overriden_lines": 1
+    }
+  }
+}
